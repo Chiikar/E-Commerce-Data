@@ -5,7 +5,7 @@
 This project delves into the sales performance of an e-commerce company over the past year, aiming to provide valuable insights for strategic decision-making. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
 ### Data Sources
-E-commerce Data: The primary dataset used for this analysis contains detailed information about each sale made by the company.
+E-commerce Data: The primary dataset used for this analysis is the "E-commerce-Sales-Data.xlsx" File, containing detailed information about each sale made by the company.
 
 ### Tools
 - Excel: Used for data cleaning and analysis. 

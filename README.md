@@ -3,18 +3,18 @@
 
 # E-commerce-Sales-Analysis
 
-### Project Overview
+### Project-Overview
 
 This project delves into the sales performance of an e-commerce company over the past year, aiming to provide valuable insights for strategic decision-making. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
-### Data Sources
+### Data-Sources
 E-commerce Data: The primary dataset used for this analysis is the "E-commerce-Sales-Data.xlsx" File, containing detailed information about each sale made by the company.
 
 ### Tools
 - Excel: Used for data cleaning and analysis. 
 - PowerBI: Utilized for creating reports.
 
-### Data Cleaning/Preparation
+### Data-Cleaning-and-Preparation
 In the initial data preparation phase, tasks included:
 
 - Loading and inspecting data.
@@ -22,14 +22,14 @@ In the initial data preparation phase, tasks included:
 - Data cleaning and formatting.
 - Data validation.
 
-### Exploratory Data Analysis (EDA)
+### Exploratory-Data-Analysis (EDA)
 EDA involved exploring the sales data to answer key questions such as:
 
 - What is the overall sales trend?
 - Which products are top sellers?
 - What are the peak sales periods?
 
-### Data Analysis
+### Data-Analysis
 Analysis included examining various metrics such:
 - total revenue
 - quantity ordered

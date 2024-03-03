@@ -1,7 +1,7 @@
 #### ![image](https://github.com/Chiikar/E-Commerce-Data/assets/156119801/835ce846-e21b-46bc-a2d2-69310f4d06f8)
 
 
-# E-commerce Sales Analysis
+# E-commerce-Sales-Analysis
 
 ### Project Overview
 
